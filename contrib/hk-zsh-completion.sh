@@ -9,7 +9,7 @@
 #
 # Finally, completion of arguments like app names works best if completion
 # caching is enabled. Oh-my-zsh also does this for you:
-# https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/completion.zsh#L34-L36
+# https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/completion.zsh#L34-L37
 #
 # Requires: The hk Heroku client (https://hk.heroku.com)
 # Author: Blake Gentry (https://bgentry.io)
